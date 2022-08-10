@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pawan\\Abc\\Core\\Core.csproj": {}
+    "c:\\Users\\Pawan\\Abc\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pawan\\Abc\\Core\\Core.csproj": {
+    "c:\\Users\\Pawan\\Abc\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pawan\\Abc\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\Pawan\\Abc\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Pawan\\Abc\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\Pawan\\Abc\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Pawan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pawan\\Abc\\Core\\obj\\",
+        "outputPath": "c:\\Users\\Pawan\\Abc\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
